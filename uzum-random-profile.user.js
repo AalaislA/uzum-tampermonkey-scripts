@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Uzum Reviews - Random Profile Name Auto Learn
 // @namespace    https://uzum.uz/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Кнопки на странице отзывов Uzum для смены имени, фамилии и пола через автоматически пойманный запрос сохранения профиля
 // @author       You
 // @match        https://uzum.uz/ru/user/*
