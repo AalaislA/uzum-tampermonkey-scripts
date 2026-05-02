@@ -1068,7 +1068,7 @@
 
         // Вверху страницы — 140px.
         // При прокрутке плашка поднимается, но не выше 16px от верхнего края.
-        const startTop = 180;
+        const startTop = 182;
         const minTop = 16;
         const topOffset = Math.max(minTop, startTop - window.scrollY);
 
