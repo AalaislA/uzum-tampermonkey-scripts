@@ -11,8 +11,8 @@
 // @connect      api.uzum.uz
 // @connect      randomall.ru
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/AalaislA/uzum-scripts/main/uzum-random-profile.user.js
-// @downloadURL  https://raw.githubusercontent.com/AalaislA/uzum-scripts/main/uzum-random-profile.user.js
+// @updateURL    https://raw.githubusercontent.com/AalaislA/uzum-tampermonkey-scripts/main/uzum-random-profile.user.js
+// @downloadURL  https://raw.githubusercontent.com/AalaislA/uzum-tampermonkey-scripts/main/uzum-random-profile.user.js
 // ==/UserScript==
 
 (function () {
