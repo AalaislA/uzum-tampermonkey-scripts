@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Uzum Reviews - Random Profile Name Auto Learn
 // @namespace    https://uzum.uz/
-// @version      1.0.2
+// @version      1.0.3
 // @description  Кнопки на странице отзывов Uzum для смены имени, фамилии и пола через автоматически пойманный запрос сохранения профиля
 // @author       You
 // @match        https://uzum.uz/ru/user/*
@@ -1068,7 +1068,7 @@
 
         // Вверху страницы — 140px.
         // При прокрутке плашка поднимается, но не выше 16px от верхнего края.
-        const startTop = 182;
+        const startTop = 180;
         const minTop = 16;
         const topOffset = Math.max(minTop, startTop - window.scrollY);
 
